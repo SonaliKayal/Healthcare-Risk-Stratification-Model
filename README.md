@@ -11,9 +11,9 @@ The system leverages a trained machine learning model that analyzes patterns fro
 
 Features
 
-Interactive UI built with Streamlit
+-- Interactive UI built with Streamlit
 
-Predicts patient risk using:
+-- Predicts patient risk using:
 
 - Age
 
@@ -23,9 +23,9 @@ Predicts patient risk using:
 
 - Abnormal Lab Count
 
-Displays model status and prediction results in real time
+-- Displays model status and prediction results in real time
 
-Modular backend for easy retraining with new healthcare data
+-- Modular backend for easy retraining with new healthcare data
 
 Tech Stack
 Category	Tools Used
