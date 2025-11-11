@@ -29,10 +29,10 @@ Modular backend for easy retraining with new healthcare data
 
 Tech Stack
 Category	Tools Used
--Frontend/UI :-	Streamlit
--Backend/ML:-	Python, Scikit-learn, Pandas, NumPy
--Visualization:-	Matplotlib, Seaborn
--Model Deployment:-	Streamlit Cloud / Localhost
+- Frontend/UI:-	Streamlit
+- Backend/ML:-	Python, Scikit-learn, Pandas, NumPy
+- Visualization:-	Matplotlib, Seaborn
+- Model Deployment:-	Streamlit Cloud / Localhost
 
 
 Model Workflow
