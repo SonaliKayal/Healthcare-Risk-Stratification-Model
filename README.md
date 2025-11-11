@@ -37,15 +37,15 @@ Category	Tools Used
 
 Model Workflow
 
-Data Preprocessing: Cleaned and standardized patient records.
+- Data Preprocessing: Cleaned and standardized patient records.
 
-Feature Selection: Focused on key health indicators.
+- Feature Selection: Focused on key health indicators.
 
-Model Training: Trained ML models (e.g., Logistic Regression, Random Forest).
+- Model Training: Trained ML models (e.g., Logistic Regression, Random Forest).
 
-Evaluation: Used metrics such as accuracy, precision, recall, and AUC score.
+- Evaluation: Used metrics such as accuracy, precision, recall, and AUC score.
 
-Deployment: Integrated final model into a Streamlit dashboard for user interaction.
+- Deployment: Integrated final model into a Streamlit dashboard for user interaction.
 
 
 User Interface
