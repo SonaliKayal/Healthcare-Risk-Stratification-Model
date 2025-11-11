@@ -52,8 +52,8 @@ User Interface
 
 The interface provides:
 
-A sidebar with model details and status updates.
+- A sidebar with model details and status updates.
 
-Sliders and input fields for entering patient information.
+- Sliders and input fields for entering patient information.
 
-A “Predict Risk” button to generate real-time predictions.
+- A “Predict Risk” button to generate real-time predictions.
