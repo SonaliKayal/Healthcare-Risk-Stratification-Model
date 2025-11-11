@@ -9,7 +9,7 @@ About the Project
 This interactive Streamlit-based app enables users to input key patient parameters and instantly receive a predicted risk score (e.g., Low, Medium, or High).
 The system leverages a trained machine learning model that analyzes patterns from healthcare datasets to forecast patient outcomes and risk probabilities.
 
-Features
+Features:-
 
  Interactive UI built with Streamlit
 
@@ -28,14 +28,14 @@ Features
  Modular backend for easy retraining with new healthcare data
 
 Tech Stack
-Category	Tools Used
+Category	Tools Used:-
 - Frontend/UI:-	Streamlit
 - Backend/ML:-	Python, Scikit-learn, Pandas, NumPy
 - Visualization:-	Matplotlib, Seaborn
 - Model Deployment:-	Streamlit Cloud / Localhost
 
 
-Model Workflow
+Model Workflow:-
 
 - Data Preprocessing: Cleaned and standardized patient records.
 
@@ -50,7 +50,7 @@ Model Workflow
 
 User Interface
 
-The interface provides:
+The interface provides:-
 
 - A sidebar with model details and status updates.
 
