@@ -58,7 +58,7 @@ The interface provides:-
 
 - A “Predict Risk” button to generate real-time predictions.
 
-<img width="1911" height="892" alt="Healthcare Risk Stratification Model" src="https://github.com/user-attachments/assets/8d9b5705-01b6-4332-a175-501aed71c3be" />
+<img width="1911" height="885" alt="Output Screenshort" src="https://github.com/user-attachments/assets/ad9615f7-3d49-4dd3-9a2e-370131028ab8" />
 
 
 
