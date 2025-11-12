@@ -57,3 +57,10 @@ The interface provides:-
 - Sliders and input fields for entering patient information.
 
 - A “Predict Risk” button to generate real-time predictions.
+
+<img width="1911" height="892" alt="Healthcare Risk Stratification Model" src="https://github.com/user-attachments/assets/8d9b5705-01b6-4332-a175-501aed71c3be" />
+
+
+
+Project link:-
+https://healthcare-risk-stratification-model.streamlit.app/
